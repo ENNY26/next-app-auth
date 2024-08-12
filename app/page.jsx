@@ -44,7 +44,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-8 bg-gray-900 text-white">
       <div className="text-center mb-12">
-        <h1 className="text-5xl font-bold mb-4">Pantry Tracker</h1>
+        <h1 className="text-5xl font-bold mb-4">Digital Kitchen</h1>
         <p className="text-xl mb-8">Easily manage your pantry with categorized items and expiration dates.</p>
         <button 
           className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-full font-semibold"
